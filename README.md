@@ -1,4 +1,4 @@
-# La_Liga_table_Anaylsis
+# La_Liga_table_Analysis
 
 ## Images
 
